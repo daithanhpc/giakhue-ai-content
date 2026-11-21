@@ -1,1 +1,13 @@
-
+{
+  "topic": "Pressure Gauges",
+  "summary": "Mechanical instruments used to measure pressure",
+  "facts": [
+    "Used in industrial systems",
+    "Can measure positive pressure and vacuum"
+  ],
+  "applications": [
+    "Steam systems",
+    "Food processing",
+    "Chemical plants"
+  ]
+}
